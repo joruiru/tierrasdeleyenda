@@ -28,7 +28,8 @@ undum.game.situations = {
         durante los tres últimos días, y las millas recorridas por caminos\
         embarrados le estaban pasando factura. Sólo la certeza de saber que al\
         otro lado de la colina se encontraba «El Yelmo del Enano» le animaba a\
-        reemprender la marcha por el empinado camino.</p>\
+        reemprender la marcha por el empinado camino. Desde aquí, ya podía\
+        observarse el humo que salía de la chimenea de la posada.</p>\
         \
         <p>Todo comenzó hace cuatro años en «El Yelmo del Enano». En esa posada\
         vio por última vez a Valerya y a Kallo, sus amigos. Comenzó a pensar\
